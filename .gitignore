@@ -1,0 +1,106 @@
+# General
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Build and Dependency Directories
+node_modules/
+dist/
+build/
+out/
+target/
+bin/
+obj/
+vendor/
+
+# Dependency Files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+composer.lock
+Gemfile.lock
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+.env.test
+.env.development
+.env.production
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+venv/
+env/
+.python-version
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# Node.js
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Testing
+coverage/
+*.lcov
+*.cover
+*.coverage
+test-results/
+junit.xml
+
+# Documentation
+docs/_build/
+_site/
+.jekyll-cache/
+
+# Temporary Files
+*.tmp
+*.temp
+*.cache
+*.bak
+*.backup
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Miscellaneous
+*.swp
+*.swo
+.sass-cache/
+*.min.js.map
+*.min.css.map
+
+.gitignore
+.idea
